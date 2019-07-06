@@ -1,0 +1,62 @@
+#########################################
+-----------------STATEMENT---------------
+Name: Nikos
+Address: Ious 27
+Afm: 000000009
+Birthday: 1998
+Count: 3164.5
+Statement is Valid!
+-----------------------------------------
+-------------Ownership(Home)-------------
+Type: K
+Address: Ελ. Βενιζέλου 12, 11111, Αθήνα
+Sureface: 123
+Year: 2012
+Floor: 3
+TypeOfBulding: 1
+Enfia: 250.3$
+-----------------------------------------
+-----------Ownership(Shop)-----------
+Type: E
+Address: Ερμού 33, 11111 Αθήνα
+Sureface: 56
+Year: 2000
+Commersiality: 9
+Enfia: 1912$
+-------------------------------------
+-----------Ownership(Plot)------------
+Type: O
+Address: Θέση Κάτω Ραχούλα, Κορινθία
+Sureface: 1200
+Year: 1977
+FarFromCity: 1
+Cultivation: 0
+Enfia: 430$
+--------------------------------------
+-------------Ownership(Home)-------------
+Type: K
+Address: terma
+Sureface: 120
+Year: 1921
+Floor: 1
+TypeOfBulding: 0
+Enfia: 306$
+-----------------------------------------
+-------------Ownership(Home)-------------
+Type: K
+Address: Ious 30
+Sureface: 142
+Year: 1946
+Floor: 2
+TypeOfBulding: 1
+Enfia: 266.2$
+-----------------------------------------
+-----------Ownership(Shop)-----------
+Type: E
+Address: Archaias Ilidas, Amaliada, 27200
+Sureface: 345.1
+Year: 1989
+Commersiality: 7
+Enfia: 2090.2$
+-------------------------------------
+#########################################
